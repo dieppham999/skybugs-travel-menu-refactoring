@@ -69,3 +69,5 @@ Sau khi hoàn thành, chụp kết quả lệnh `git log --oneline --graph --all
 ## 8. Công nghệ
 
 HTML5 · Git · GitHub
+
+
